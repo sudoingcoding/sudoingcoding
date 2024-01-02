@@ -1,11 +1,10 @@
-Hi there, I'm [Your Name]! 👋
+Hi there, I'm Suddip Paul Arnab! 👋
 
-🚀 Welcome to my GitHub profile! I'm passionate about [mention a few interests or technologies]. I love building [mention the type of projects you enjoy working on].
+🚀 Welcome to my GitHub profile! I'm passionate about achine.
 About Me
 
-    💻 I'm a [Your Job Title/Role] based in [Your Location].
-    🌱 Currently learning [What you're currently learning or exploring].
-    💡 I'm interested in [Your interests or hobbies].
+    🌱 Currently studying in East West University.
+    💡 I'm interested in Machine Learning and AI.
 
 Tech Stack
 
@@ -26,9 +25,7 @@ Here are some highlighted projects:
 Feel free to explore more projects in my [GitHub repositories](Link to your repositories).
 Connect with Me
 
-    LinkedIn: Your LinkedIn Profile
-    Twitter: Your Twitter Profile
-    Portfolio: Your Portfolio Website
+    [LinkedIn](https://www.linkedin.com/in/suddip-paul-arnab-83a401234/)
 
 Fun Facts
 
