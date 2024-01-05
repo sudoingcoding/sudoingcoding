@@ -1,16 +1,12 @@
 Hi there, I'm Suddip Paul Arnab! 👋
 
-🚀 Welcome to my GitHub profile! I'm passionate about achine.
+🚀 Welcome to my GitHub profile!
 About Me
 
     🌱 Currently studying in East West University.
     💡 I'm interested in Machine Learning and AI.
 
-Tech Stack
-
-
-
-Feel free to explore more projects in my [GitHub repositories](Link to your repositories).
+📫 How to reach me **suddippaul2002@gmail.com**
 <h2 align="left">Get in touch with me:</h2>
 <p align="left">
 <p align="left">
@@ -22,5 +18,3 @@ Feel free to explore more projects in my [GitHub repositories](Link to your repo
 <a href="https://codeforces.com/profile/pavilion123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suddip" height="30" width="40" /></a>
 <a href="https://leetcode.com/suddippaul2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suddip" height="30" width="40" /></a>
 </p>
-
-
