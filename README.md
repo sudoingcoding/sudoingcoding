@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suddip Paul Arnab</h1>
-<h3 align="center">A passionate Machine Learner from Bangladesh</h3>
+<h3 align="center">A passionate learner from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudoingcoding&label=Profile%20views&color=0e75b6&style=flat" alt="sudoingcoding" /> </p>
 
