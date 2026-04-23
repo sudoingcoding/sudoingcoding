@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a **Computer Science & Engineering graduate** from **East West University, Dhaka** (CGPA: 3.49), with a focus on **Intelligent Systems and Data Science**. I enjoy building practical systems that combine software design, IoT integration, and data-driven interfaces.
+I am a **Computer Science & Engineering graduate** from **East West University, Dhaka**, with a focus on **Intelligent Systems and Data Science**. I enjoy building practical systems that combine software design, IoT integration, and data-driven interfaces.
 
 - 🔭 Currently working on **ML/AI and backend projects**
 - 🌱 Learning more about **LLMs, Big Data, and Cloud systems**
