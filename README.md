@@ -31,10 +31,7 @@
 
 I am a **Computer Science & Engineering graduate** from **East West University, Dhaka**, with a focus on **Intelligent Systems and Data Science**. I enjoy building practical systems that combine software design, IoT integration, and data-driven interfaces.
 
-- 🔭 Currently working on **ML/AI and backend projects**
 - 🌱 Learning more about **LLMs, Big Data, and Cloud systems**
-- 📄 Published research at **ICIDA 2025** on deep learning for medical imaging
-- 🏆 Recipient of the **Medha Lalon Scholarship** (2025–2026) at East West University
 - 🤖 **Treasurer** at East West University Robotics Club (EWURC)
 - 💬 Ask me about **Python, .NET, Machine Learning, IoT, or competitive programming**
 - 📫 Reach me at **suddippaul2002@gmail.com**
@@ -48,14 +45,6 @@ I am a **Computer Science & Engineering graduate** from **East West University, 
 | B.Sc. in Computer Science & Engineering | East West University, Dhaka | 2022 – 2026 |
 | Higher Secondary Certificate (Science) | St. Joseph Higher Secondary School, Dhaka | 2020 |
 | Secondary School Certificate (Science) | BIAM Model School & College, Dhaka | 2018 |
-
----
-
-## 🔬 Research Publication
-
-**KidneyStoneNet: A Deep Learning Approach for Kidney Stone Detection with Transfer Learning and Explainable AI**
-> *Proceedings of the 4th International Conference on Innovations in Data Analytics (ICIDA 2025)*
-> Eminent College of Management and Technology (ECMT), West Bengal, India, 2025.
 
 ---
 
@@ -125,7 +114,7 @@ I am a **Computer Science & Engineering graduate** from **East West University, 
 
 ## 🌐 Extra-Curricular Activities
 
-- 💰 **Treasurer** — East West University Robotics Club (EWURC) *(Jan 2025 – Present)*
+- 💰 **Treasurer** — East West University Robotics Club (EWURC) *(Jan 2025 – April 2026)*
   - Managed club budget, finances, and resource allocation
 - 📣 **Public Relations Officer** — EWURC *(Oct 2023 – Jan 2025)*
   - Organized *"Prime Bank presents EWU RoboFest 2024"*
